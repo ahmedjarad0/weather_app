@@ -1,5 +1,4 @@
 import 'dart:ui';
-import 'package:cached_network_image/cached_network_image.dart';
 import 'package:flutter/material.dart';
 import 'package:weather_app/screens/city_screen.dart';
 import 'package:weather_app/services/weather_model.dart';
